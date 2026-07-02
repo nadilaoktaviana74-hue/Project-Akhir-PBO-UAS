@@ -55,8 +55,7 @@ Aplikasi ini membantu pengguna dalam mengelola daftar tugas, mulai dari menambah
 ---
 
 ## 📑 Media Presentasi
-<a href="presentations/PBO Tugas Akhir PPT.pdf">PBO Tugas Akhir PPT.pdf
-</a>
+<a href="presentations/PBO Tugas Akhir PPT.pdf">PBO Tugas Akhir PPT.pdf </a>
 ---
 
 ## ▶️ Cara Menjalankan Project
@@ -98,9 +97,9 @@ Project ini dibuat sebagai tugas mata kuliah **Pemrograman Berorientasi Objek (P
 ## 👨‍💻 Author
 
 **Anggota Kelompok:** 
-Niswah Wima Razanah Faza (1482500043) 
-Nadila Oktaviana (1482500044)
-Nyimas Taqiiyah Haazimah Nibras (1482500063)
+- Niswah Wima Razanah Faza (1482500043) 
+- Nadila Oktaviana (1482500044)
+- Nyimas Taqiiyah Haazimah Nibras (1482500063)
 
 **Mata Kuliah:** Pemrograman Berorientasi Objek (PBO)
 
