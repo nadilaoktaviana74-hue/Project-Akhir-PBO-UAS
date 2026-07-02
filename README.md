@@ -49,7 +49,7 @@ Aplikasi ini membantu pengguna dalam mengelola daftar tugas, mulai dari menambah
 ## 🖼️ Poster Project
 
 <p align="center">
-  <img src="images/poster.png" width="750">
+  <img src="images/Poster Tugas Akhir PBO.png" width="750">
 </p>
 
 ---
@@ -60,17 +60,7 @@ Aplikasi ini membantu pengguna dalam mengelola daftar tugas, mulai dari menambah
 
 Silakan buka presentasi melalui tautan berikut:
 
-📄 **[Presentasi Manajemen Tugas](presentations/Presentasi_Manajemen_Tugas.pdf)**
-
-### (Opsional) Thumbnail Presentasi
-
-Jika memiliki gambar thumbnail (misalnya `images/presentation-thumbnail.png`), gunakan:
-
-```markdown
-<a href="presentations/Presentasi_Manajemen_Tugas.pdf">
-    <img src="images/presentation-thumbnail.png" width="700">
-</a>
-```
+📄 **[Presentasi Manajemen Tugas](presentations/PBO Tugas Akhir PPT.pdf)**
 
 ---
 
