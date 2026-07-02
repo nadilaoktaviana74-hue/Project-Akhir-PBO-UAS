@@ -55,13 +55,8 @@ Aplikasi ini membantu pengguna dalam mengelola daftar tugas, mulai dari menambah
 ---
 
 ## 📑 Media Presentasi
-
-> **GitHub belum mendukung menampilkan file PDF secara langsung di dalam README.**
-
-Silakan buka presentasi melalui tautan berikut:
-
-📄 **[Presentasi Manajemen Tugas](presentations/PBO Tugas Akhir PPT.pdf)**
-
+<a href="presentations/PBO Tugas Akhir PPT.pdf">PBO Tugas Akhir PPT.pdf
+</a>
 ---
 
 ## ▶️ Cara Menjalankan Project
